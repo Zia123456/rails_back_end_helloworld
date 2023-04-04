@@ -69,12 +69,16 @@ In order to run this project you need:
 
 - [PostgreSQL](https://www.postgresql.org/) installed and running
 
+## React App
+
+- [React App](https://github.com/Zia123456/react_front_end_helloworld.git)
+
 ### Setup
 
 Clone this repository to your desired folder:
 
 ```
-  git clone https://github.com/Zia123456/rails_react_helloworld.git
+  git clone https://github.com/Zia123456/rails_back_end_helloworld.git
 ```
 
 ### Install
@@ -134,7 +138,7 @@ rspec
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Zia123456/rails_back_end_helloworld/issues/2).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
